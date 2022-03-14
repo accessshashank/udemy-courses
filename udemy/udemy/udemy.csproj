@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>udemy.Arrays.LongestBand</StartupObject>
+    <StartupObject>udemy.Arrays.Rains</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,7 @@
     <Compile Include="Arrays\FindTripletsWithTargetSum.cs" />
     <Compile Include="Arrays\HighestMountain.cs" />
     <Compile Include="Arrays\LongestBand.cs" />
+    <Compile Include="Arrays\Rains.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
