@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>udemy.Arrays.Rains</StartupObject>
+    <StartupObject>udemy.Arrays.MinimumDifference</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,7 +50,10 @@
     <Compile Include="Arrays\FindTripletsWithTargetSum.cs" />
     <Compile Include="Arrays\HighestMountain.cs" />
     <Compile Include="Arrays\LongestBand.cs" />
+    <Compile Include="Arrays\MaxSubArraySum.cs" />
+    <Compile Include="Arrays\MinimumDifference.cs" />
     <Compile Include="Arrays\Rains.cs" />
+    <Compile Include="Arrays\SubArraySort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
