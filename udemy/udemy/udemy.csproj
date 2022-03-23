@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>udemy.Arrays.Subsequence</StartupObject>
+    <StartupObject>udemy.Arrays.SortSubsequence</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,7 @@
     <Compile Include="Arrays\MaxSubArraySum.cs" />
     <Compile Include="Arrays\MinimumDifference.cs" />
     <Compile Include="Arrays\Rains.cs" />
+    <Compile Include="Arrays\SortSubsequence.cs" />
     <Compile Include="Arrays\SubArraySort.cs" />
     <Compile Include="Arrays\Subsequence.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
