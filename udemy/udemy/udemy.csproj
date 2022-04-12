@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>udemy.Strings.RunLengthEncoding</StartupObject>
+    <StartupObject>udemy.Strings.PalindromeBreak</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,7 @@
     <Compile Include="Arrays\MaxSubArraySum.cs" />
     <Compile Include="Arrays\MinimumDifference.cs" />
     <Compile Include="Arrays\Rains.cs" />
+    <Compile Include="Strings\PalindromeBreak.cs" />
     <Compile Include="Strings\RunLengthEncoding.cs" />
     <Compile Include="Strings\SortSubsequence.cs" />
     <Compile Include="Arrays\SubArraySort.cs" />
